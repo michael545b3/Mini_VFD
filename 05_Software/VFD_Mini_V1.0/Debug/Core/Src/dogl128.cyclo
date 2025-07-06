@@ -1,0 +1,7 @@
+../Core/Src/dogl128.c:47:6:DOGL128_Init	2
+../Core/Src/dogl128.c:77:6:DOGL128_Write_Data	2
+../Core/Src/dogl128.c:100:6:DOGL128_Invert_Display	1
+../Core/Src/dogl128.c:107:6:DOGL128_Set_Contrast	2
+../Core/Src/dogl128.c:117:6:DOGL128_ON	1
+../Core/Src/dogl128.c:123:6:DOGL128_OFF	1
+../Core/Src/dogl128.c:129:6:DOGL128_Write_CMD	2

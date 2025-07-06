@@ -1,0 +1,11 @@
+../Core/Src/eeprom.c:22:10:byte_array_to_uint32	16	static
+../Core/Src/eeprom.c:27:7:byte_array_to_float	24	static
+../Core/Src/eeprom.c:33:6:float_to_byte_array	24	static
+../Core/Src/eeprom.c:45:13:M24C0X_Init	16	static
+../Core/Src/eeprom.c:56:13:M24C0X_Write_2Byte	40	static
+../Core/Src/eeprom.c:70:13:M24C0X_Write_Byte	32	static
+../Core/Src/eeprom.c:84:9:M24C0X_Read_Byte	32	static
+../Core/Src/eeprom.c:97:10:M24C0X_Read_Word	32	static
+../Core/Src/eeprom.c:114:13:M24C0X_Write_Word	32	static
+../Core/Src/eeprom.c:129:13:M24C0X_Write_Float	32	static
+../Core/Src/eeprom.c:139:7:M24C0X_Read_Float	32	static

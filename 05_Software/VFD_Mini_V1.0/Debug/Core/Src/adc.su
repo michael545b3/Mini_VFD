@@ -1,0 +1,6 @@
+../Core/Src/adc.c:40:6:ADC_Start_Conversion	8	static
+../Core/Src/adc.c:45:9:ADC_Init	8	static
+../Core/Src/adc.c:67:10:ADC_Get_V_IN	4	static
+../Core/Src/adc.c:72:10:ADC_Get_I_IN	4	static
+../Core/Src/adc.c:77:10:ADC_Get_VREF	4	static
+../Core/Src/adc.c:82:6:HAL_ADC_ConvCpltCallback	16	static

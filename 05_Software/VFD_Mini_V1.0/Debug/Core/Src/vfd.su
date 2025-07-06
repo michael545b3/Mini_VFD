@@ -1,0 +1,8 @@
+../Core/Src/vfd.c:40:6:Motor_Timers_Stop	8	static
+../Core/Src/vfd.c:55:9:Motor_Timers_Start	16	static
+../Core/Src/vfd.c:96:6:Generate_LUT	40	static
+../Core/Src/vfd.c:108:6:Timer_actual_frequency	24	static
+../Core/Src/vfd.c:132:6:VFD_Init	8	static
+../Core/Src/vfd.c:144:19:VFD_Handler	32	static
+../Core/Src/vfd.c:228:6:Motor_LUT_Stepper	4	static
+../Core/Src/vfd.c:305:6:HAL_TIM_PeriodElapsedCallback	16	static

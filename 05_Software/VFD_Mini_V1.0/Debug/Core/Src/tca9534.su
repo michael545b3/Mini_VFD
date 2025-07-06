@@ -1,0 +1,13 @@
+../Core/Src/tca9534.c:35:13:TCA9534_Init	32	static
+../Core/Src/tca9534.c:53:6:TCA9534_Write_Output_Reg	32	static
+../Core/Src/tca9534.c:63:9:TCA9534_Read_Input_Reg	32	static
+../Core/Src/tca9534.c:76:9:TCA9534_Read_Output_Reg	32	static
+../Core/Src/tca9534.c:92:6:Read_PB_All	16	static
+../Core/Src/tca9534.c:102:9:Read_PB_FWD	16	static
+../Core/Src/tca9534.c:111:9:Read_PB_REV	16	static
+../Core/Src/tca9534.c:120:9:Read_PB_STOP	16	static
+../Core/Src/tca9534.c:129:9:Read_PB_MENU	16	static
+../Core/Src/tca9534.c:138:9:Read_INT	8	static
+../Core/Src/tca9534.c:143:6:Write_LED	24	static
+../Core/Src/tca9534.c:152:6:Write_4LED	32	static
+../Core/Src/tca9534.c:165:10:bit_config	32	static

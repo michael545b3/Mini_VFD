@@ -1,0 +1,4 @@
+../Core/Src/menu.c:42:6:Encoder_Init	8	static
+../Core/Src/menu.c:49:6:Menu_Init	8	static
+../Core/Src/menu.c:60:6:Menu_Encoder_Handler	24	static
+../Core/Src/menu.c:129:6:Menu_Handler	56	static
