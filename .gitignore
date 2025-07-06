@@ -1,0 +1,29 @@
+# Ignore list for Eagle, a PCB layout tool
+
+# Backup files
+*.s#?
+*.b#?
+*.l#?
+*.b$?
+*.s$?
+*.l$?
+
+# Build output folders
+/Debug/
+/Release/
+/build/
+/out/
+
+# Temporary and compiler-generated files
+*.o
+*.d
+*.elf
+*.hex
+*.bin
+*.map
+*.lst
+*.log
+
+# OS/system files
+.DS_Store
+Thumbs.db
