@@ -2417,7 +2417,7 @@ Covered vias can be set in Masks (Limit).
 <attribute name="SPICEPREFIX" value="R" x="21.5" y="75" size="1.778" layer="28" rot="MR90" display="off"/>
 <attribute name="VALUE" x="21.5" y="75" size="0.8" layer="28" ratio="12" rot="MR90" align="center"/>
 </element>
-<element name="X2" library="Connectors" package="DF3E-4P-2V" package3d_urn="urn:adsk.eagle:package:39324394/2" value="DF3E-4P-2V(51)" x="4.5" y="56.5" smashed="yes" rot="MR270">
+<element name="X2" library="Connectors" package="DF3E-4P-2V" package3d_urn="urn:adsk.eagle:package:39324394/2" value="DF3E-4P-2V(51)" x="4.5" y="56.5" populate="no" smashed="yes" rot="MR270">
 <attribute name="NAME" x="3.5" y="56.5" size="1.27" layer="26" ratio="12" rot="MR90" align="center"/>
 <attribute name="OC" value="H125417CT-ND" x="4.5" y="56.5" size="1.778" layer="28" rot="MR270" display="off"/>
 <attribute name="SUPPLIER" value="Digikey" x="4.5" y="56.5" size="1.778" layer="28" rot="MR270" display="off"/>

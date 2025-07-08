@@ -20233,7 +20233,9 @@ diameter 1.8 mm, horizontal, grid 5.08 mm</description>
 <part name="R31" library="rcl_MICHAEL" deviceset="R-EU_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/3" value="10k"/>
 <part name="+3V19" library="supply_MICHAEL" deviceset="+3.3V" device=""/>
 <part name="R28" library="rcl_MICHAEL" deviceset="R-EU_" device="R0603" package3d_urn="urn:adsk.eagle:package:23555/3" value="10k"/>
-<part name="X2" library="Connectors" deviceset="DF3E-4P-2V" device="" package3d_urn="urn:adsk.eagle:package:39324394/2" value="DF3E-4P-2V(51)"/>
+<part name="X2" library="Connectors" deviceset="DF3E-4P-2V" device="" package3d_urn="urn:adsk.eagle:package:39324394/2" value="DF3E-4P-2V(51)">
+<variant name="Assembly_1" populate="no"/>
+</part>
 <part name="+3V20" library="supply_MICHAEL" deviceset="+3.3V" device=""/>
 <part name="GND33" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="TP2" library="lib_CASE_STUDY19" deviceset="TP" device="TP10R" package3d_urn="urn:adsk.eagle:package:27959/1"/>
@@ -21304,7 +21306,7 @@ Trigger</text>
 <wire x1="264.16" y1="248.92" x2="264.16" y2="12.7" width="0.254" layer="97"/>
 <wire x1="264.16" y1="12.7" x2="12.7" y2="12.7" width="0.254" layer="97"/>
 <wire x1="12.7" y1="12.7" x2="12.7" y2="248.92" width="0.254" layer="97"/>
-<text x="15.24" y="243.84" size="2.54" layer="97" ratio="12">STM32 Microcontroller</text>
+<text x="15.24" y="243.84" size="2.54" layer="97" ratio="12">LCD Display</text>
 <wire x1="271.78" y1="104.14" x2="375.92" y2="104.14" width="0.254" layer="97"/>
 <wire x1="375.92" y1="104.14" x2="375.92" y2="33.02" width="0.254" layer="97"/>
 <wire x1="375.92" y1="33.02" x2="271.78" y2="33.02" width="0.254" layer="97"/>
@@ -21314,7 +21316,7 @@ Trigger</text>
 <wire x1="375.92" y1="170.18" x2="375.92" y2="111.76" width="0.254" layer="97"/>
 <wire x1="375.92" y1="111.76" x2="271.78" y2="111.76" width="0.254" layer="97"/>
 <wire x1="271.78" y1="111.76" x2="271.78" y2="170.18" width="0.254" layer="97"/>
-<text x="274.32" y="165.1" size="2.54" layer="97" ratio="12">EEPROM</text>
+<text x="274.32" y="165.1" size="2.54" layer="97" ratio="12">Aux. UART Header</text>
 </plain>
 <instances>
 <instance part="FRAME5" gate="G$1" x="0" y="0" smashed="yes">

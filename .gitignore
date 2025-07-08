@@ -27,3 +27,6 @@
 # OS/system files
 .DS_Store
 Thumbs.db
+
+# Office files
+*.odt
